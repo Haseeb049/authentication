@@ -1,5 +1,11 @@
-# authentication
+# Passport for authentication
 
-1. Clone this project <br/>
-2. npm intall <br/>
-3. npm start
+# Description
+implementation of passport for authentication
+
+# Setup
+1. install node v14.18.3
+
+# Steps to run this project:
+1. npm install
+2. npm start
